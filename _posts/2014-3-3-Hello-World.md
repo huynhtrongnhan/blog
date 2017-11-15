@@ -5,6 +5,7 @@ title: Hi! Hello World!
 ![_config.yml]({{ site.baseurl }}/images/IMG20170607172835.jpg)
 
 Đây là bài viết đầu tiên trên blog của mình.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec augue in erat sollicitudin interdum non ut dolor. Vestibulum placerat eros sit amet enim aliquet dignissim. Praesent sollicitudin ante ut ipsum imperdiet luctus. Pellentesque sagittis felis et molestie bibendum. Mauris a sollicitudin augue. Pellentesque tristique eget magna eu suscipit. Praesent eget auctor erat, eu tincidunt diam. Pellentesque iaculis ligula sit amet eleifend elementum. Nunc sodales urna nec odio convallis sollicitudin. Morbi aliquam mattis metus, vel mattis mi faucibus vel. Nullam molestie porttitor est, eu fermentum lorem. Nulla erat neque, tristique in ipsum finibus, scelerisque mollis magna.
 
 ![_config.yml]({{ site.baseurl }}/images/IMG20170607172835.jpg)
