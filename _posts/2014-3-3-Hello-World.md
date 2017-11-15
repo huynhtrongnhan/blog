@@ -16,4 +16,4 @@ Curabitur vestibulum ex et justo elementum vestibulum. Pellentesque felis tellus
 
 ![_config.yml]({{ site.baseurl }}/images/IMG20170607172835.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/huynhtrongnhan) on GitHub.
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Huynhtrongnhan Github](https://github.com/huynhtrongnhan) on GitHub.
